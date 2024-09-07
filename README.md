@@ -1,2 +1,2 @@
 # Enocean
-traduction  de https://github.com/kipe/enocean
+Convert to c#  https://github.com/kipe/enocean
